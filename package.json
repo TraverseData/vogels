@@ -1,6 +1,6 @@
 {
   "name": "@traverse-data/vogels",
-  "version": "0.12.3",
+  "version": "0.12.4",
   "author": "Ryan Fitzgerald <ryan@codebrewstudios.com>",
   "description": "DynamoDB data mapper",
   "main": "index.js",
